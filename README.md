@@ -25,8 +25,8 @@
 
 - OBSERVATÓRIO DE PROJETOS:
 - EQUIPE 1: CLÓVIS SILVA, IVAN FERREIRA E SWENNE SILVA
-- EQUIPE 2:
+- EQUIPE 2: 
 - EQUIPE 3:
-- EQUIPE 4:
+- EQUIPE 4: Gabriel Santana, Ariany Lima, Clausia Gabriela, Roberto Campelo, Álvaro, Cahú Victor
 - EQUIPE 5:
 - EQUIPE 6: 
