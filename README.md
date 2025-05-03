@@ -24,15 +24,20 @@
   - JHONATA DA SILVA
 
 # OBSERVATÓRIO DE PROJETOS DE DADOS E IA: 
-- EQUIPE 1: CLÓVIS SILVA, IVAN FERREIRA E SWENNE SILVA
-- EQUIPE 2: GABRIEL GUIMARÃES, JOICE CAVALCANTI, YAN ARAÚJO
-- EQUIPE 3: ANIZIO NETO, IVAN FILHO, GENTIL RIBEIRO, VINICIUS GOMES
-- EQUIPE 4:Cahú Victor, Álvaro Tavares, Ariany Lima, Claúsia Gabriella, Gabriel Santana. Roberto Campelo
-- EQUIPE 5: Euler Bruno, Hugo Guimarães, Tatiana Oliveira, Uilka Marques
-- EQUIPE 6: DANILO PONTES, SANDERSON RHAWAN, WILIAMS ALVES, JHONATA DA SILVA, SAULO BERNADO, MARCOS ANTONIO E WASHINGTON FRANÇA
+- EQUIPE 1: CLÓVIS SILVA, IVAN FERREIRA E SWENNE SILVA.
+  - Observatório - Tema: ?
+- EQUIPE 2: GABRIEL GUIMARÃES, JOICE CAVALCANTI, YAN ARAÚJO.
+  - Observatório - Tema: ?
+- EQUIPE 3: ANIZIO NETO, IVAN FILHO, GENTIL RIBEIRO, VINICIUS GOMES.
+  - Observatório - Tema: ?
+- EQUIPE 4:Cahú Victor, Álvaro Tavares, Ariany Lima, Claúsia Gabriella, Gabriel Santana. Roberto Campelo.
+  - Observatório - Tema: ?
+- EQUIPE 5: Euler Bruno, Hugo Guimarães, Tatiana Oliveira, Uilka Marques.
+  - Observatório - Tema: ?
+- EQUIPE 6: DANILO PONTES, SANDERSON RHAWAN, WILIAMS ALVES, JHONATA DA SILVA, SAULO BERNADO, MARCOS ANTONIO E WASHINGTON FRANÇA.
+  - Observatório - Tema: ?
 - EQUIPE 7: ADRYELLE LUSTOSA, EDNYS DIAS, JANIS GALDINO, PATRICIA ALVES, MAX CEZAR.
-- EQUIPE 8:
-- EQUIPE 9: 
+  - Observatório - Tema: ?
 
 # METODOLOGIA INOVADORA (CENTRADA NO ALUNO)
 - A metodologia baseada em projetos (ABP) combinada com a sala de aula invertida representa uma abordagem pedagógica dinâmica e centrada no aluno. Essa combinação potencializa os benefícios de ambas as metodologias, criando um ambiente de aprendizado mais engajador, significativo e eficaz.
