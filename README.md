@@ -3,3 +3,4 @@
 - DISCENTE: 
             CAHÚ VICTOR
             GENTIL RIBEIRO
+            ANIZIO NETO
