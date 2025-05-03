@@ -34,13 +34,13 @@
 - EQUIPE 8:
 - EQUIPE 9: 
 
-# METODOLOGIA
+# METODOLOGIA INOVADORA (CENTRADA NO ALUNO)
 - A metodologia baseada em projetos (ABP) combinada com a sala de aula invertida representa uma abordagem pedagógica dinâmica e centrada no aluno. Essa combinação potencializa os benefícios de ambas as metodologias, criando um ambiente de aprendizado mais engajador, significativo e eficaz.
 
 - Metodologia Baseada em Projetos (ABP)
 A ABP é uma metodologia ativa na qual os alunos aprendem ao se envolverem na resolução de problemas autênticos e na criação de projetos concretos. As principais características da ABP incluem:
 
-Protagonismo do aluno: Os estudantes assumem um papel ativo na definição do problema, no planejamento, na execução e na avaliação do projeto.
+- Protagonismo do aluno: Os estudantes assumem um papel ativo na definição do problema, no planejamento, na execução e na avaliação do projeto.
 - Relevância e conexão com o mundo real: Os projetos são frequentemente baseados em situações reais, o que aumenta o interesse e a motivação dos alunos.
 - Colaboração: O trabalho em equipe é fundamental, promovendo o desenvolvimento de habilidades sociais e de comunicação.
 - Investigação e pesquisa: Os alunos precisam buscar informações, analisar dados e tomar decisões ao longo do projeto.
