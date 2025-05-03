@@ -2,3 +2,4 @@
 - DOCENTE: CLOVES ROCHA
 - DISCENTE: 
             CAHÚ VICTOR
+            GENTIL RIBEIRO
